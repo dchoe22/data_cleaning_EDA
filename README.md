@@ -1,6 +1,4 @@
-# README.md for data_cleaning_EDA.ipynb
-
-## Data Cleaning and Exploratory Data Analysis (EDA)  
+# Data Cleaning and Exploratory Data Analysis (EDA)  
 This Jupyter notebook delves into the preliminary stages of data analysis, focusing on cleaning and initial exploration of the dataset.
 
 Contents:
