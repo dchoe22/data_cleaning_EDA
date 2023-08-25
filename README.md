@@ -26,4 +26,5 @@ Contents:
 
 Usage:
 
-To use this notebook, ensure you have the necessary libraries installed and simply run the cells in sequence. Adjustments might be required based on dataset specifics.
+- To use this notebook, ensure you have the necessary libraries installed and simply run the cells in sequence.
+- Adjustments might be required based on dataset specifics.
